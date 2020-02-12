@@ -1,8 +1,10 @@
 name: "my-website"
 navbar:
-  title: "My Website"
+  title: "Kristi Herman"
   left:
     - text: "Home"
       href: index.html
-    - text: "CLT"
+    - text: "About"
       href: CLT_2.html
+    - text: "Beer Case Study"
+      href: https://kherman.shinyapps.io/FirstShinyApp/
