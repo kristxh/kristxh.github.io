@@ -4,5 +4,7 @@ navbar:
   left:
     - text: "About"
       href: index.html
-    - text: "RShiny"
+    - text: "Beer Study"
+      href: case_study1_beer.html
+    - text: "Beer Shiny App"
       href: CLT_2.html
