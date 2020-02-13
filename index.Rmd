@@ -1,0 +1,11 @@
+---
+title: "simple_website"
+author: "Kristi"
+date: "2/12/2020"
+output: html_document
+---
+
+# Simple site
+## YAML tags above
+### Knit to an html file next
+Then push index.html to github.io repo
