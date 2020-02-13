@@ -1,8 +1,8 @@
 name: "my-website"
 navbar:
-  title: "My Website"
+  title: "Kristi Herman"
   left:
-    - text: "Home"
+    - text: "About"
       href: index.html
-    - text: "CLT"
+    - text: "RShiny"
       href: CLT_2.html
